@@ -1,4 +1,4 @@
-206. Reverse Linked List
+206. Reverse Linked List 
 I use an iterative approach with three pointers: prev, curr, and next.
 * curr points to the current node I'm processing.
 * prev points to the already reversed portion of the list.
